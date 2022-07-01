@@ -581,13 +581,13 @@ exports.notNum = (q) => {
 }
 exports.menunya = (salam, pushname, botname) =>{
 	return`Hai kak ${pushname} 👋 selamat ${salam} , 
-saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
+saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp Yang dibuat oleh RielOfc.
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu Rielbotz-Md :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
